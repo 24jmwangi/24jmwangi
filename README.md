@@ -9,7 +9,7 @@ My name is James Mwangi, I am a data engineer
 
 📫 **Lets talk:** mail me at 24jmwangi@gmail.com or through my socials
 
- [![](https://img.shields.io/badge/dev.to-0A0A0A?&logo=devdotto&logoColor=white)](https://dev.to/24mwangi) [![𝕏.com](https://img.shields.io/badge/𝕏.com-12100E?logo=𝕏.com&logoColor=blue)](https://x.com/24mwangi) [![linkedin](https://img.shields.io/badge/linkedin-12100E?logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/wachukajames2023/)
+ [![](https://img.shields.io/badge/dev.to-0A0A0A?&logo=devdotto&logoColor=white)](https://dev.to/24mwangi) [![𝕏.com](https://img.shields.io/badge/𝕏.com-12100E?logo=𝕏.com&logoColor=blue)](https://x.com/24mwangi) [![Linkedin](https://img.shields.io/badge/linkedin-12100E?logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/wachukajames2023/)
 <br>
 <h1>Tech</h1>
 <Br>
