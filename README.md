@@ -13,13 +13,15 @@ My name is James Mwangi, I am a data engineer.
 <br>
 <h1>Tech</h1>
 <Br>
-<img src="https://img.shields.io/badge/-white?style=for-the-badge&logo=python&logoColor=black" height="26"/> <img src="https://img.shields.io/badge/SQL-white?style=for-the-badge&logo=sql&logoColor=black" height="26"/>  <img src="https://img.shields.io/badge/-white?style=for-the-badge&logo=apache-spark&logoColor=black" height="26"/> <img src="https://img.shields.io/badge/-white?style=for-the-badge&logo=mongodb&logoColor=black" height="26"/>
-<img src="https://img.shields.io/badge/tableau-white?style=for-the-badge&logo=tableau&logoColor=black" height="26"/> <img src="https://img.shields.io/badge/-white.svg?&style=for-the-badge&logo=postgresql&logoColor=black" height="26"/>
+<img src="https://img.shields.io/badge/-white?style=for-the-badge&logo=python&logoColor=black" height="26"/> <img src="https://img.shields.io/badge/-white?style=for-the-badge&logo=apache-spark&logoColor=black" height="26"/> <img src="https://img.shields.io/badge/-white?style=for-the-badge&logo=mongodb&logoColor=black" height="26"/>
+<img src="https://img.shields.io/badge/Tableau-white.svg?style=for-the-badge&logo=Tableau&logoColor=black" height="26"/> <img src="https://img.shields.io/badge/-white.svg?&style=for-the-badge&logo=postgresql&logoColor=black" height="26"/>
 <img src="https://img.shields.io/badge/-white.svg?&style=for-the-badge&logo=apacheairflow&logoColor=black" height="26"/> <img src="https://img.shields.io/badge/-white?style=for-the-badge&logo=dbt&logoColor=black" height="26"/> 
 <img src="https://img.shields.io/badge/-white?style=for-the-badge&logo=docker&logoColor=black" height="26"/> <img src="https://img.shields.io/badge/-white?style=for-the-badge&logo=apache-kafka&logoColor=black" height="26"/>
-<img src="https://img.shields.io/badge/-white?style=for-the-badge&logo=google-cloud&logoColor=black" height="26"/> <img src="https://img.shields.io/badge/-white?style=for-the-badge&logo=terraform&logoColor=black" height="26"/> <img src="https://img.shields.io/badge/powerbi-white?style=for-the-badge&logo=power-bi&logoColor=black" height="26"/>
+<img src="https://img.shields.io/badge/-white?style=for-the-badge&logo=google-cloud&logoColor=black" height="26"/> <img src="https://img.shields.io/badge/-white?style=for-the-badge&logo=terraform&logoColor=black" height="26"/> <img src="https://img.shields.io/badge/power_bi-white?style=for-the-badge&logo=power_bi&logoColor=black" height="26"/>
 <img src="https://img.shields.io/badge/-white?style=for-the-badge&logo=talend&logoColor=black" height="26"/> 
-<img src="https://img.shields.io/badge/-white?style=for-the-badge&logo=prefect&logoColor=black" height="26"/> 
+<img src="https://img.shields.io/badge/-white?style=for-the-badge&logo=prefect&logoColor=black" height="26"/>
+
+
 <Br>
 <h1>Articles</h1>
 <table>
