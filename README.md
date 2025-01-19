@@ -17,7 +17,7 @@ My name is James Mwangi, I am a data engineer.
 <img src="https://img.shields.io/badge/tableau-white?style=for-the-badge&logo=tableau&logoColor=black" height="26"/> <img src="https://img.shields.io/badge/-white.svg?&style=for-the-badge&logo=postgresql&logoColor=black" height="26"/>
 <img src="https://img.shields.io/badge/-white.svg?&style=for-the-badge&logo=apacheairflow&logoColor=black" height="26"/> <img src="https://img.shields.io/badge/-white?style=for-the-badge&logo=dbt&logoColor=black" height="26"/> 
 <img src="https://img.shields.io/badge/-white?style=for-the-badge&logo=docker&logoColor=black" height="26"/> <img src="https://img.shields.io/badge/-white?style=for-the-badge&logo=apache-kafka&logoColor=black" height="26"/>
-<img src="https://img.shields.io/badge/-white?style=for-the-badge&logo=google-cloud&logoColor=black" height="26"/> <img src="https://img.shields.io/badge/-white?style=for-the-badge&logo=terraform&logoColor=black" height="26"/> <img src="https://img.shields.io/badge/powerbi-white?style=for-the-badge&logo=powerbi&logoColor=black" height="26"/>
+<img src="https://img.shields.io/badge/-white?style=for-the-badge&logo=google-cloud&logoColor=black" height="26"/> <img src="https://img.shields.io/badge/-white?style=for-the-badge&logo=terraform&logoColor=black" height="26"/> <img src="https://img.shields.io/badge/powerbi-white?style=for-the-badge&logo=power-bi&logoColor=black" height="26"/>
 <img src="https://img.shields.io/badge/-white?style=for-the-badge&logo=talend&logoColor=black" height="26"/> 
 <img src="https://img.shields.io/badge/-white?style=for-the-badge&logo=prefect&logoColor=black" height="26"/> 
 <Br>
