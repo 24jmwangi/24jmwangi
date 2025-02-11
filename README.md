@@ -1,7 +1,7 @@
 
 
 <div align="center">
-My name is James Mwangi, I am a data engineer.
+My name is James Mwangi, I am a data/analytics engineer.
 
 
 🌐 **Find me→:**[@DataTalksClub](https://twitter.com/DataTalksClub?t=OAFbF2AkdVQOR0mNz_aeXw&s=09) [@TechUp Africa](https://www.techupafrica.org/tamp)
