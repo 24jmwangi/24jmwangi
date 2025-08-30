@@ -26,7 +26,7 @@ My name is James Mwangi, I am a data/analytics engineer.
 <h1>Latest articles</h1>
 <table>
   <tr><th>Title</th><th>Link</th></tr>
-  <!-- DEVTO:START --><tr><td>SQL Window Functions in 2 Minutes</td><td>https://dev.to/24mwangi/sql-window-functions-in-2-minutes-275c</td></tr><tr><td>Running Transformations on BigQuery using dbt Cloud: step by step</td><td>https://dev.to/24mwangi/running-transformations-on-bigquery-using-dbt-cloud-step-by-step-11bo</td></tr><tr><td>Debugging Python Data Pipelines</td><td>https://dev.to/24mwangi/debugging-python-data-pipelines-a-step-by-step-guide-11g7</td></tr><!-- DEVTO:END -->
+  <!-- DEVTO:START --><tr><td>What is the Modern Data Stack?</td><td>https://dev.to/24mwangi/modern-data-stack-3p6l</td></tr><tr><td>SQL Window Functions in 2 Minutes</td><td>https://dev.to/24mwangi/sql-window-functions-in-2-minutes-275c</td></tr><tr><td>Running Transformations on BigQuery using dbt Cloud: step by step</td><td>https://dev.to/24mwangi/running-transformations-on-bigquery-using-dbt-cloud-step-by-step-11bo</td></tr><!-- DEVTO:END -->
 </table>
 <br>
 <!--
