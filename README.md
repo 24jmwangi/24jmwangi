@@ -10,13 +10,13 @@ My name is **James Mwangi**, I am a **Data & Analytics engineer**.
 
 **Also in the 4+ years:**
 <br>
-⤷1 failed frontier lab
+➜ 1 failed frontier lab
 <br>
-⤷Completed 99% of work just in time
+➜ Completed 99% of work just in time
 <br>
-⤷Optimized snack to work ratio
+➜ Optimized snack to work ratio
 <br>
-⤷Brokered peace between JSON and XML
+➜ Brokered peace between JSON and XML
 
 
 **Find me:**[@DataTalksClub](https://twitter.com/DataTalksClub?t=OAFbF2AkdVQOR0mNz_aeXw&s=09) [@TechUp Africa](https://www.techupafrica.org/tamp)
@@ -28,7 +28,7 @@ My name is **James Mwangi**, I am a **Data & Analytics engineer**.
  [![](https://img.shields.io/badge/Dev.to-0A0A0A?&logo=devdotto&logoColor=white)](https://dev.to/24mwangi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-12100E?logo=LinkedIn&logoColor=blue)](https://www.linkedin.com/in/wachukajames2023/) [![Substack](https://img.shields.io/badge/Substack-12100E?logo=Substack&logoColor=orange)](https://substack.com/@24mwangi)
 
 
-⤷ **Tech**
+**⤷ Tech**
 
 <img src="https://img.shields.io/badge/-white?style=for-the-badge&logo=python&logoColor=black" height="30"/> <img src="https://img.shields.io/badge/-white?style=for-the-badge&logo=apache-spark&logoColor=black" height="30"/> <img src="https://img.shields.io/badge/-white?style=for-the-badge&logo=mongodb&logoColor=black" height="30"/>
 <img src="https://img.shields.io/badge/Tableau-white.svg?style=for-the-badge&logo=Tableau&logoColor=black" height="30"/> <img src="https://img.shields.io/badge/-white.svg?&style=for-the-badge&logo=postgresql&logoColor=black" height="30"/>
@@ -39,7 +39,7 @@ My name is **James Mwangi**, I am a **Data & Analytics engineer**.
 <img src="https://img.shields.io/badge/-white?style=for-the-badge&logo=prefect&logoColor=black" height="30"/>
 
 
-⤷ **Latest Articles**
+**⤷ Latest Articles**
 <table>
   <tr><th>Title</th><th>Link</th></tr>
   <!-- DEVTO:START --><tr><td>What is the Modern Data Stack?</td><td>https://dev.to/24mwangi/modern-data-stack-3p6l</td></tr><tr><td>SQL Window Functions in 2 Minutes</td><td>https://dev.to/24mwangi/sql-window-functions-in-2-minutes-275c</td></tr><tr><td>Running Transformations on BigQuery using dbt Cloud: step by step</td><td>https://dev.to/24mwangi/running-transformations-on-bigquery-using-dbt-cloud-step-by-step-11bo</td></tr><!-- DEVTO:END -->
