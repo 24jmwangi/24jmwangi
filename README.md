@@ -30,7 +30,7 @@ My name is **James Mwangi**, I am a **Data & Analytics engineer**.
 
 **⤷ Tech**
 
-<img src="https://img.shields.io/badge/-white?style=for-the-badge&logo=python&logoColor=black" height="30"/> <img src="https://img.shields.io/badge/-white?style=for-the-badge&logo=apache-spark&logoColor=black" height="30"/> <img src="https://img.shields.io/badge/-white?style=for-the-badge&logo=amazonaws&logoColor=black" height="30"/>
+<img src="https://img.shields.io/badge/-white?style=for-the-badge&logo=python&logoColor=black" height="30"/> <img src="https://img.shields.io/badge/-white?style=for-the-badge&logo=apache-spark&logoColor=black" height="30"/>
 <img src="https://img.shields.io/badge/Tableau-white.svg?style=for-the-badge&logo=Tableau&logoColor=black" height="30"/> <img src="https://img.shields.io/badge/-white.svg?&style=for-the-badge&logo=postgresql&logoColor=black" height="30"/>
 <img src="https://img.shields.io/badge/-white.svg?&style=for-the-badge&logo=apacheairflow&logoColor=black" height="30"/> <img src="https://img.shields.io/badge/-white?style=for-the-badge&logo=dbt&logoColor=black" height="30"/> 
 <img src="https://img.shields.io/badge/-white?style=for-the-badge&logo=docker&logoColor=black" height="26"/> <img src="https://img.shields.io/badge/-white?style=for-the-badge&logo=apache-kafka&logoColor=black" height="30"/>
