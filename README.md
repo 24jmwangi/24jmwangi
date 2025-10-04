@@ -1,15 +1,32 @@
 
 
 <div align="center">
-My name is James Mwangi, I am a Data & Analytics engineer.
+ 
+My name is **James Mwangi**, I am a **Data & Analytics engineer**.
+
+4+ years building data architecture/workflows, interested in **Agtech, Fintech, AI and data governance.**
+
+**Favorite quote**: Sometimes your data "insights" are just fiction.
+
+**Also in the 4+ years:**
+<br>
+⤷1 failed frontier lab
+<br>
+⤷Completed 99% of work just in time
+<br>
+⤷Optimized snack to work ratio
+<br>
+⤷Brokered peace between JSON and XML
 
 
-🌐 **Find me:**[@DataTalksClub](https://twitter.com/DataTalksClub?t=OAFbF2AkdVQOR0mNz_aeXw&s=09) [@TechUp Africa](https://www.techupafrica.org/tamp)
+**Find me:**[@DataTalksClub](https://twitter.com/DataTalksClub?t=OAFbF2AkdVQOR0mNz_aeXw&s=09) [@TechUp Africa](https://www.techupafrica.org/tamp)
 
+**Ask me about:** [![DPA](https://img.shields.io/badge/DPA-2019-orange)]()
 
-📫 **Lets talk:** mail me at 24jmwangi@gmail.com or through my socials
+**Lets talk:** mail me at 24jmwangi@gmail.com or through my socials.
 
- [![](https://img.shields.io/badge/dev.to-0A0A0A?&logo=devdotto&logoColor=white)](https://dev.to/24mwangi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-12100E?logo=LinkedIn&logoColor=blue)](https://www.linkedin.com/in/wachukajames2023/) [![Substack](https://img.shields.io/badge/Substack-12100E?logo=Substack&logoColor=orange)](https://substack.com/@24mwangi)
+ [![](https://img.shields.io/badge/Dev.to-0A0A0A?&logo=devdotto&logoColor=white)](https://dev.to/24mwangi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-12100E?logo=LinkedIn&logoColor=blue)](https://www.linkedin.com/in/wachukajames2023/) [![Substack](https://img.shields.io/badge/Substack-12100E?logo=Substack&logoColor=orange)](https://substack.com/@24mwangi)
+
 <br>
 <h1>Tech</h1>
 <Br>
