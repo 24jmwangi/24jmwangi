@@ -25,7 +25,7 @@ My name is **James Mwangi**, I am a **Data & Analytics engineer**.
 
 **Lets talk:** mail me at 24jmwangi@gmail.com or through my socials.
 
- [![](https://img.shields.io/badge/Dev.to-0A0A0A?&logo=devdotto&logoColor=white)](https://dev.to/24mwangi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-12100E?logo=LinkedIn&logoColor=blue)](https://www.linkedin.com/in/wachukajames2023/) [![Substack](https://img.shields.io/badge/Substack-12100E?logo=Substack&logoColor=orange)](https://substack.com/@24mwangi)
+ [![](https://img.shields.io/badge/Dev.to-0A0A0A?&logo=devdotto&logoColor=white)](https://dev.to/24mwangi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-12100E?logo=LinkedIn&logoColor=blue)](https://www.linkedin.com/in/24mwangi) [![Substack](https://img.shields.io/badge/Substack-12100E?logo=Substack&logoColor=orange)](https://substack.com/@24mwangi)
 
 
 **⤷ Tech**
