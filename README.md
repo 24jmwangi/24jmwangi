@@ -1,5 +1,4 @@
 
-
 <div align="center">
  
 My name is **James Mwangi**, I am a **Data & Analytics engineer**.
@@ -9,8 +8,6 @@ My name is **James Mwangi**, I am a **Data & Analytics engineer**.
 **Favorite quote:** Sometimes your data "insights" are just fiction.
 
 **Also in the 4+ years:**
-<br>
-⤷ 1 failed frontier lab
 <br>
 ⤷ Completed 99% of work just in time
 <br>
