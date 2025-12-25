@@ -3,7 +3,7 @@
  
 My name is **James Mwangi**, I am a **Data & Analytics engineer**.
 
-4+ years building data architecture/workflows, interested in **Agtech, Fintech, AI and data governance.**
+4+ years of building data architecture/workflows, interested in **Agtech, Fintech, AI and data governance.**
 
 **Favorite quote:** Sometimes your data "insights" are just fiction.
 
