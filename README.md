@@ -13,7 +13,6 @@ My name is **James Mwangi**, I am a **Data & Analytics engineer**.
 <br>
 ⤷ Optimized snack to work ratio
 <br>
-⤷ Brokered peace between JSON and XML
 
 
 **Find me:**[@DataTalksClub](https://twitter.com/DataTalksClub?t=OAFbF2AkdVQOR0mNz_aeXw&s=09) [@TechUp Africa](https://www.techupafrica.org/tamp)
