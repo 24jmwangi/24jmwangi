@@ -17,6 +17,8 @@ Interested in **Agtech, Fintech, AI and data governance.**
 Intelligence is scaling faster than our ability to question it
 <br>
 Are we discovering patterns, or imposing them?
+<br>
+Your insights aren’t actionable because they’re optimized for clarity, not consequence.
 
 
 **Find me:**[@DataTalksClub](https://twitter.com/DataTalksClub?t=OAFbF2AkdVQOR0mNz_aeXw&s=09) [@TechUp Africa](https://www.techupafrica.org/tamp)
