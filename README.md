@@ -9,7 +9,7 @@ My name is **James Mwangi**, I am a **Data & Analytics engineer**.
 <br>
 ⤷ Optimized snack to work ratio
 <br>
-interested in **Agtech, Fintech, AI and data governance.**
+Interested in **Agtech, Fintech, AI and data governance.**
 <br>
 
 **Thoughts**
