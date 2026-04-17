@@ -3,16 +3,20 @@
  
 My name is **James Mwangi**, I am a **Data & Analytics engineer**.
 
-4+ years of building data architecture/workflows, interested in **Agtech, Fintech, AI and data governance.**
-
-**Favorite quote:** Sometimes your data "insights" are just fiction.
-
-**Also in the 4+ years:**
+4+ years of building data architecture/workflows
 <br>
 ⤷ Completed 99% of work just in time
 <br>
 ⤷ Optimized snack to work ratio
 <br>
+interested in **Agtech, Fintech, AI and data governance.**
+<br>
+
+**Thoughts**
+<br>
+Intelligence is scaling faster than our ability to question it
+<br>
+Are we discovering patterns, or imposing them?
 
 
 **Find me:**[@DataTalksClub](https://twitter.com/DataTalksClub?t=OAFbF2AkdVQOR0mNz_aeXw&s=09) [@TechUp Africa](https://www.techupafrica.org/tamp)
