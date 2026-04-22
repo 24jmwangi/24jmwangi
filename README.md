@@ -1,15 +1,9 @@
 
 <div align="center">
  
-My name is **James Mwangi**, I am a **Data & Analytics engineer**.
-
-4+ years of building data architecture/workflows
+My name is **James Mwangi**, for 5+ years I have built and maintained data pipelines and architectures across several domains, focusing on reliability and decision-readiness.
 <br>
-⤷ Completed 99% of work just in time
-<br>
-⤷ Optimized snack to work ratio
-<br>
-Interested in **Agtech, Fintech, AI and data governance.**
+**Interested** in Agtech and Fintech systems where data sharing, privacy, and incentives intersect
 <br>
 
 **Thoughts**
