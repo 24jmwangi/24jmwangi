@@ -15,7 +15,7 @@ Are we discovering patterns, or imposing them?
 Your insights aren’t actionable because they’re optimized for clarity, not consequence.
 
 
-**Find me:**[@DataTalksClub](https://twitter.com/DataTalksClub?t=OAFbF2AkdVQOR0mNz_aeXw&s=09) [@TechUp Africa](https://www.techupafrica.org/tamp)
+**Find me:**[@DataTalksClub](https://twitter.com/DataTalksClub?t=OAFbF2AkdVQOR0mNz_aeXw&s=09) [@TechUp Africa](https://www.techupafrica.org/)
 
 **Ask me about:** [![DPA](https://img.shields.io/badge/DPA-2019-orange)]()
 
