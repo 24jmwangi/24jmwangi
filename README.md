@@ -17,7 +17,7 @@ Your insights aren’t actionable because they’re optimized for clarity, not c
 
 **Find me:**[@DataTalksClub](https://twitter.com/DataTalksClub?t=OAFbF2AkdVQOR0mNz_aeXw&s=09) [@TechUp Africa](https://techupafrica.org/)
 
-**Ask me about:** [![DPA](https://img.shields.io/badge/DPA-2019-orange)]()
+**Ask me about:** [![DPA](https://img.shields.io/badge/DPA-2019-orange)](https://github.com/24jmwangi/DPAKenya)
 
 **Lets talk:** mail me at 24jmwangi@gmail.com or through my socials.
 
